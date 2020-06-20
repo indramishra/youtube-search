@@ -1,0 +1,5 @@
+{
+    "git.enableSmartCommit": true,
+    "git.allowForcePush": true,
+    "git.autofetch": true
+}
