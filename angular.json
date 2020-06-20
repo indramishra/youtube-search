@@ -23,10 +23,11 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/vendor/semantic.min.css",
               "src/styles.css"
             ],
-            "scripts": [],
-            "es5BrowserSupport": true
+            "scripts": []
+           
           },
           "configurations": {
             "production": {
